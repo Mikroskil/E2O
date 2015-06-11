@@ -121,12 +121,38 @@ body {
   font-family: "Verdana", Times, serif;
   font-weight: 100;
   font-variant: inherit;
-  background-color: #996;
+  background:url(../../img/bg_home.jpg) no-repeat;
+}
+.nama {
+  font-size: 25px;
+  font-family:"Comic Sans MS", cursive;
+  position: relative;
 }
 h2 {
   font-size: 25px;
   color: #006;
   position: relative;
+  font-family:"Comic Sans MS", cursive;
+}
+ul{
+	color:#F00;
+}
+li .li{
+	font-size:25px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#300;
+	font-style:italic;
+}
+.judul{
+	font-size:40px;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bolder;
+	color:#000;
+}
+.font{
+	color:#F00;
+	font-style:italic;
+	font:Tahoma, Geneva, sans-serif;
 }
 code[class*="language-"],
 pre[class*="language-"] {
